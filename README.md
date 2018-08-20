@@ -1,1 +1,2 @@
 # Displaying-System-Configuration-
+We have explored hardware and operating systems in general. Now, let’s discover some information about the hardware and operating system on your computer. Depending on whether you’re using a Windows operating system or a Mac OS operating system, choose the appropriate directions that follow to display the operating system’s name, the CPU type, and how much memory the computer has.
