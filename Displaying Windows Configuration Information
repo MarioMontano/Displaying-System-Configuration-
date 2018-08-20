@@ -1,0 +1,6 @@
+To display system configuration information on a Windows computer, run msinfo32.exe from the command line. From the Start 
+menu, type cmd to start the Command Prompt program and then type msinfo32 into the Command Prompt window. You will get a 
+display similar to the one in Figure 1.2, although the information displayed varies, depending on your hardware and the 
+version of Windows you are running. As you can see in Figure 1.2, this computer is running Windows 7 Professional. The CPU 
+is an Intel™ Core™ 2 Duo CPU T6400 processor running at 2.0 GHz, and the computer has 3 Gbytes of memory, 1.81 Gbytes of 
+which is not being used at the time of the display.
